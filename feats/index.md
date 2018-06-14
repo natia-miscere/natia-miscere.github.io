@@ -8,4 +8,14 @@ Feats in **Natia Miscere** are generally the equivalent of class features from t
 
 ## First Layer
 
-[See the Trooper page for more details about Task Force Omega related feats.](/feats/first-layer/trooper)
+[See the Trooper page](/feats/first-layer/trooper) for more details about [Task Force Omega](/classes/first-layer/trooper) related feats.
+
+[See the Moonspawn Feats page](/feats/first-layer/moonspawn) for more details about [Moonspawn](/classes/first-layer/moonspawn) related feats and progression.
+
+## Second Layer
+
+Not yet released.
+
+## Third Layer
+
+REDACTED
