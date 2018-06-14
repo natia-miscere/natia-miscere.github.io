@@ -1,7 +1,7 @@
 ---
 title: Natia Miscere
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based from Pathfinder
-layout: page
+layout: default
 ---
 
 ## What is Natia Miscere?
