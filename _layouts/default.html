@@ -20,8 +20,12 @@
   <body>
       {% include header.html %}
 
-    <div class="wrapper">
+    <div id="toc">
+      <h2>Table of Contents</h2>
+    {% include toc.html html=content %}
+    </div>
 
+    <div class="wrapper">
       <section>
         <div id="title">
           <h1>{{ page.title | default: site.github.repository_name }}</h1>
@@ -29,7 +33,7 @@
           <hr>
         </div>
 
-        {% include toc.html html=content %}
+        
         {{ content }}
 
       </section>
