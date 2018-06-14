@@ -36,6 +36,8 @@ When an officer is stationed in field command, he gains triple sight range and i
 
 ---
 
+## Tier B Perks
+
 ### Commissars (B0)
 
 Lack of discipline could break the morale of your offensive at any moment. Commissars are special NCOs that lead your men to heat of battle. No retreat, no cowards.
