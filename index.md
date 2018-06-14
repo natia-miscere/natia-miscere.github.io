@@ -1,7 +1,3 @@
----
-title: Natia Miscere
----
-
 ### What is Natia Miscere?
 
 The product of hundreds of hours of cooperative play between a group of friends, Natia Miscere is both a shared world and a highly customised d20 gaming system based off *Paizo Publishing's Pathfinder Roleplaying Game*.
