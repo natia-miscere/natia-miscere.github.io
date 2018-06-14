@@ -18,7 +18,7 @@ They progress via a unique system based on points awarded for surviving encounte
 
 ## Class Features
 
-- Unable to wear any loadouts.
+- Unable to wear any [loadouts](/classes/first-layer/trooper#loadout-ex).
 - Cannot pick Trooper feats.
 - Gain dodge buffer equal to 1d4 per level, add DEX mod to total later.
 - Gain d10 hit die instead of usual d6.
