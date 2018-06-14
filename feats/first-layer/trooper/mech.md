@@ -1,5 +1,5 @@
 ---
-title: "Natia Miscere: Task Force Omega Personal Feats"
+title: "Natia Miscere: Task Force Omega Mechanized Customization"
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
 layout: default
 ---
@@ -8,7 +8,7 @@ Each Mech or Vehicle model has slots, and set amount of points called *Ordinance
 
 ---
 
-# Mech Models
+## Mech Models
 
 ### Teapot Mk I - Light Mech
 
@@ -21,7 +21,7 @@ Each Mech or Vehicle model has slots, and set amount of points called *Ordinance
 
 ---
 
-# Modules
+## Modules
 
 ### Wolf-Pack Missile Launcher
 
@@ -43,7 +43,7 @@ A devastating single shot weapon, contains one shell in magazine, reloads automa
 
 ---
 
-# Hull Modifications
+## Hull Modifications
 
 ### Additional Plating
 
