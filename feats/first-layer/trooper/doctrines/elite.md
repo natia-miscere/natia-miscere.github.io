@@ -4,7 +4,7 @@ description: A homebrew middle-fantasy/science fiction d20 roleplaying game syst
 layout: default
 ---
 
-# Tier A Perks
+## Tier A Perks
 
 Elite Doctrine has special passive where the squad size cannot exceed 4 members.
 
@@ -36,7 +36,7 @@ You can use NCO feat on your own squad members as immediate action instead of fr
 
 ---
 
-# Tier B Perks
+## Tier B Perks
 
 ### Elites never die, They simply fade away. (B0)
 

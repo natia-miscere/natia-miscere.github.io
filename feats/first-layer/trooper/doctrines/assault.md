@@ -4,7 +4,7 @@ description: A homebrew middle-fantasy/science fiction d20 roleplaying game syst
 layout: default
 ---
 
-# Tier A Perks
+## Tier A Perks
 
 ### Move Up! (A0)
 
@@ -36,7 +36,7 @@ An alive assault trooper is good assault trooper. All squad members gain +1 to D
 
 ---
 
-# Tier B Perks
+## Tier B Perks
 
 ### Elite Assault Infantry (B0)
 
@@ -90,4 +90,4 @@ As part of any charge related action, grants squad +10 AC bonus against Overwatc
 
 ---
 
-# Tier C Perks
+## Tier C Perks
