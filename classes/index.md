@@ -11,6 +11,7 @@ There are a variety of custom classes available for play, based a character's or
 ### First Layer
 
 [Task Force Omega Trooper](/classes/first-layer/trooper)
+
 [Moonspawn](/classes/first-layer/moonspawn)
 
 ### Second Layer
