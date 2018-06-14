@@ -4,13 +4,15 @@ description: A homebrew middle-fantasy/science fiction d20 roleplaying game syst
 layout: default
 ---
 
-### Lightning Reflexes (Cost: 1 Point, X)
+## Cost: 1 point
+
+### Lightning Reflexes (X)
 
 Trooper gains access to a Dodge buffer equal to their total level plus their Dexterity modifier. This recharges at the start of each round to its maximum value and takes 1.5x damage from all sources. Certain Loadouts disable your dodge.
 
 In addition, attacks or effects that involve a Reflex save do only half damage if the save fails, and none if it succeeds.
 
-### Akimbo (Cost: 1 Point)
+### Akimbo
 
 **Prerequisites:** *Dex 15*
 
@@ -25,7 +27,7 @@ Trooper gains reduced penalty from firing two weapons, one on each hand. The det
 | Double AR                                 | -6            | -6            |
 | Double MG (Requires STR 15, min.)         | -8            | -8            |
 
-### Vitality (Cost: 1 Point, Achievement, X)
+### Vitality (Achievement, X)
 
 **Prerequisites:** *Con 13*
 
@@ -35,15 +37,15 @@ Trooper gains +2 HP for every hit die.
 
 > If you meet the free feat requirement when you have already spent a point to get this, you gain the feat cost back.
 
-### Danger Close (Cost: 1 Point)
+### Danger Close
 
 Trooper always deal max damage with greandes or explosives.
 
-### Hybrid Loadout (Cost: 1 Point)
+### Hybrid Loadout
 
 Trooper with Hybrid Loadout perk may select **one** trait of another Loadout with (*H*) mark on it, and add it to their currently equipped Loadout.
 
-### Camaraderie (Cost: 1 Point, X)
+### Camaraderie (X)
 
 **Prerequisites:** ***No** One Man Army*
 
@@ -53,7 +55,7 @@ Trooper with Camaraderie selects one character to bond with. When that bonded ch
 >
 > Dveloping the bond far enough will also grant you bonus feat point.
 
-### Quick Hands (Cost: 1 Point)
+### Quick Hands
 
 **Prerequisites:** *Dex 13*
 
@@ -61,7 +63,7 @@ Trooper with this perk may swap weapons as immediate action, reload as swift act
 
 You may also convert a standard action cost move into swift action move once per 3 rounds.
 
-### Ranger (Cost: 1 Point, Achievement, Rank: Private First Class)
+### Ranger (Achievement, Rank: Private First Class)
 
 **Prerequisites:** *Dex 13*
 
@@ -69,11 +71,11 @@ You may also convert a standard action cost move into swift action move once per
 
 Trooper may attack with melee weapon as swift action instead of standard action. You also gain a holster for a melee weapon regardless of the Loadout selected.
 
-### Extra Grenade (Cost: 1 Point, Rank: Private First Class)
+### Extra Grenade (Rank: Private First Class)
 
 Trooper gains 1 grenade slot regardless of Loadout.
 
-### Second Wind (Cost: 1 Point, Achievement)
+### Second Wind (Achievement)
 
 **Requirements:** Take HP damage and survive the battle.
 
@@ -81,13 +83,13 @@ When the Trooper is mortally struck, instead of going to negative HP, fall only 
 
 Also become immune to coup de grace attempts.
 
-### Buddy Shield (Cost: 1 Point)
+### Buddy Shield
 
 **Prerequisite:** *Camaraderie, CHA 12*
 
 When near bonded ally, you can request to the bonded ally to take the hit for you once per round. If the buddy agrees, he or she gains DR equal to your level plus charisma modifier.
 
-### No One Gets Left Behind (Cost: 1 Point, Achievement, Rank: Sergeant)
+### No One Gets Left Behind (Achievement, Rank: Sergeant)
 
 **Prerequisite:** *Non-Commissioned Officer, CHA 12*
 
@@ -95,7 +97,7 @@ When near bonded ally, you can request to the bonded ally to take the hit for yo
 
 All troopers under this NCO's command gains bonus to their AC when retreating.
 
-### Gun Freak (Cost: 1 Point)
+### Gun Freak
 
 Trooper with this feat may attach one more additional attachment to their weapons from the list below. Names in bracket are category of weapons it can apply to. Trooper can swap these modifications freely every rest.
 
@@ -106,33 +108,33 @@ Trooper with this feat may attach one more additional attachment to their weapon
 + **Grenade Launcher**: Launches greande with range of 60 ft instead of 30 ft. (AR)
 + **Bayonet**: Grants ability to make Bayonet Charge, and melee attack. (AR, RF)
 
-### Basic Fortification (Cost: 1 Point)
+### Basic Fortification
 
 Trooper may now also build fortifications with engineering/entrenchment kit.
 
-### Armor Package (Cost: 1 Point)
+### Armor Package
 
 Trooper as standard action, can place a duffle bag with additional kevlar, allowing allies to gain armor equal to their level x 2. **This extra armor stacks on top of existing armor.**
 
 An ally can use Armor Package only once per encounter. Taking armor is swift action.
 
-### Advanced Aid (Cost: 1 Point)
+### Advanced Aid
 
 **Prerequisites:** *WIS 13*
 
 Trooper may roll heal skill to heal an ally for the roll result divided by 5 hp. This may used along with medikit for increased healing.
 
-### Watch Out, Sir! (Cost : 1 Point, Rank: Sergeant)
+### Watch Out, Sir! (Rank: Sergeant)
 
 When a trooper with this feat is attacked and hit, any troopers that he or she commands can choose to take the shot for them, if they are within 15 ft.
 
-### Agility (Cost: 1 Point)
+### Agility
 
 **Prerequisites:** *Only works in Loadout that does not disable Dodge.*
 
 Once per 2 rounds, gain double movement speed.
 
-### Light Mechanized (Cost: 1 Point)
+### Light Mechanized
 
 **Prerequisites:** *WIS or INT 11*
 
@@ -140,19 +142,21 @@ Trooper can now pilot light Mechs or vehicles.
 
 Gain new skill named Mech Piloting (DEX or INT or WIS), treat it as class skill.
 
-### CQC Specialist (Cost: 2 Points)
+## Cost: 2 points
+
+### CQC Specialist
 
 **Prerequisites:** *STR or DEX 15*
 
 Trooper gains ability to do out of ordinary actions befitting the situation once per round as free action and in CQC.
 
-### Courage (Cost: 2 Points, Achievement)
+### Courage (Achievement)
 
 **Requirements:** Take massive damage and survive.
 
 As imemdiate action, once per encounter, Trooper reduces all incoming damage by 25%. **Stacks with Indomitable, but multiplicatively.**
 
-### Field Medic (Cost: 2 Points)
+### Field Medic
 
 **Prerequisites:** *WIS 13*
 
@@ -160,17 +164,17 @@ Whenever an ally takes HP damage, a trooper with this feat can sprint at full sp
 
 If the trooper reaches an ally, they are immediately stabilized if dying. If not, recieve healing equal to this trooper's level. Movement portion has no use limit, but it can only proc wisdom modifier times per round. Healing portion of the ability can be used only wisdom modifier times per encounter as well.
 
-### Drill Instructor (Cost: 2 Points, Rank: Sergeant)
+### Drill Instructor (Rank: Sergeant)
 
 **Prerequisites:** *CHA 13*
 
 NCOs with this feat can grant +2 to physical ability score of his or her choice to all squad members.
 
-### Deadly Critical (Cost: 2 Points)
+### Deadly Critical
 
 Trooper selects one weapon type, trooper gains **double** threat range. If long rifles are selected, their crit multiplier is increased by 1 instead.
 
-### Squaddie (Cost: 2 Points, Rank: Corporal)
+### Squaddie (Rank: Corporal)
 
 **Prerequisite:** *CHA 13*
 
@@ -180,25 +184,27 @@ Trooper gains one cohort that player directly controls. They have Civilian Origi
 >
 > **Special:** For Sergeant or above, this feat costs 1 Point instead of 2 Points. If you select this perk and you get promoted, 1 feat point is refunded.
 
-### Double Tap (Cost: 2 Points, Achievement)
+### Double Tap (Achievement)
 
 **Requirements:** Kill two enemies with one attack.
 
 Trooper gains ability to shoot twice instead of once as full round action.
 
-### One Man Army (Cost: 2 Points, Rank: Private First Class)
+### One Man Army (Rank: Private First Class)
 
 **Prerequisites:** ***No** Camaraderie*
 
 Trooper gains ability to use one medikit (1d8+1), and one armor repair kit (1d6+1), once per day.
 
-### Adrenaline Rush (Cost: 3 Points, Achievement)
+## Cost: 3 points
+
+### Adrenaline Rush (Achievement)
 
 **Requirements:** Kill 4 enemies in a single round.
 
 Trooper regains one standard action when he or she kills an enemy. This ability procs only once per round.
 
-### Indomitable (Cost: 3 Points)
+### Indomitable
 
 **Prerequisite:** *Courage*
 
@@ -206,27 +212,31 @@ Trooper brace themselves for 1 round as full round action, reducing damage taken
 
 Can be activated as reaction, once per day. After reaction is used, this ability is disabled until rest.
 
-### Headhunter (Cost: 4 Points)
+## Cost: 4 points
+
+### Headhunter
 
 Called shots against heads now has -4 penalty instead of -10.
 
-### Covert Ops (Cost: 4 Points, Rank: Specialist, X)
+### Covert Ops (Rank: Specialist, X)
 
 Trooper with this perk gains massive +2 bonus to all physical ability scores. However, they cannot command anything bigger than squads.
 
 Also, they may choose any specialization, granting them unique swift/free action of their choice.
 
-### Deadeye (Cost: 4 Points)
+### Deadeye
 
 Trooper with this perk must carry long rifle to use this. By consuming entire turn, and giving up any immediate action in between, Trooper attempts coup de grace that she or he can see. If the target moves more than 20 ft, this ability fails and becomes normal attack. If the enemy stays within 20 ft, Trooper fires auto crit attack against the target.
 
-### Mechwarrior (Cost: 4 Points)
+### Mechwarrior
 
 **Prerequisites:** *Light Mechanized*
 
 Trooper can pilot all mech types, even Jaeger class Super Heavy Mechs.
 
-### Arts - Blade Mastery (Cost: 5 Points)
+## Cost: 5 points
+
+### Arts - Blade Mastery
 
 **Prerequisite:** *STR or DEX 18*
 
