@@ -1,7 +1,7 @@
 ---
 title: "Natia Miscere: Lore"
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
-layout: default
+layout: index
 ---
 
 This page will be updated eventually.

@@ -1,7 +1,7 @@
 ---
 title: "Natia Miscere: Task Force Omega Trooper Feats"
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
-layout: default
+layout: index
 ---
 
 There are two main types of feats for Troopers - **personal**, and **special.**
