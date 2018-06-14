@@ -12,6 +12,8 @@ Feats in **Natia Miscere** are generally the equivalent of class features from t
 
 [See the Moonspawn Feats page](/feats/first-layer/moonspawn) for more details about [Moonspawn](/classes/first-layer/moonspawn) related feats and progression.
 
+[See the Black Blood Evolutions page](/feats/first-layer/symbiotes) for more details about Symbiote Evolutions.
+
 ## Second Layer
 
 Not yet released.
