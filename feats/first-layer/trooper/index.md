@@ -6,6 +6,8 @@ layout: index
 
 There are two main types of feats for Troopers - **personal**, and **special.**
 
+There is also a third type of feat for squad leaders or high ranked soldiers named **Battlefield Doctrines.**
+
 ## Personal Feats
 
 [See the Personal Feats page for more information.](/feats/first-layer/trooper/personal)

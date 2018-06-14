@@ -10,6 +10,8 @@ Feats in **Natia Miscere** are generally the equivalent of class features from t
 
 [See the Trooper page](/feats/first-layer/trooper) for more details about [Task Force Omega](/classes/first-layer/trooper) related feats.
 
+You may also want to check out the [Battlefield Doctrine feats page](/feats/first-layer/trooper/doctrines) as well, particularly if your character is in a squad.
+
 [See the Moonspawn Feats page](/feats/first-layer/moonspawn) for more details about [Moonspawn](/classes/first-layer/moonspawn) related feats and progression.
 
 [See the Black Blood Evolutions page](/feats/first-layer/symbiotes) for more details about Symbiote Evolutions.

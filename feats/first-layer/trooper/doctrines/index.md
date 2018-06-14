@@ -8,9 +8,13 @@ Battlefield Doctrines are powerful, squad-wide feats that grant significant bonu
 
 **Prerequisites:** *Commands a Squad, Non-Commissioned Officer*
 
+## Details
+
 Trooper with this feat allows select a doctrine that he or she wants to pursue. Each doctrine grants passive bonuses and special feats listed below categorized as Battlefield Command.
 
 Battlefield Doctrine Perks are divided in Tiers. With each Tier requiring different ranks. **If there are multiple perks with same Tier category, you can only pick one of them, and the choice is permanent until you unlock next Tier, which grants you respec.**
+
+## Tiers and Military Rank Levels
 
 + **Tier A, Category:Basic**
   + **Tier A0 (Corporal)**
@@ -27,30 +31,46 @@ Battlefield Doctrine Perks are divided in Tiers. With each Tier requiring differ
 + **Tier X0 (Lieutenant Colonel)**
 + **Tier X1 (Colonel)**
 
-1. **Defensive Doctrine**
+## Doctrines
+
+### **Defensive Doctrine**
 
 Relying on fortifications, good concrete walls and sandbags, defensive doctrine squad can hold a place for extended periods of time.
 
-2. **Elite Doctrine**
+See: [Defensive Doctrine Feats](/feats/first-layer/trooper/doctrines/defensive)
+
+### **Elite Doctrine**
 
 True strength relies on few, but elite individuals. This doctrine focuses on boosting their squad member's ability scores and numerical stats by huge margin.
 
-3. **Horde Doctrine**
+See: [Elite Doctrine Feats](/feats/first-layer/trooper/doctrines/elite)
+
+### **Horde Doctrine**
 
 A way to win a battle is through war of attrition. Being well supplied, maintaining offense beyond normal breaking point is the tactic of this squad.
 
-4. **Assault Doctrine**
+See: [Horde Doctrine Feats](/feats/first-layer/trooper/doctrines/horde)
+
+### **Assault Doctrine**
 
 Best offense is best defense, best tactic, best strategy, best everything. Assault squad gives no quarters. This doctrine focuses on turning your infantry units into walking tanks.
 
-5. **Tactical Superiority Doctrine**
+See: [Assault Doctrine Feats](/feats/first-layer/trooper/doctrines/assault)
+
+### **Tactical Superiority Doctrine**
 
 Always having an edge above an enemy in all regards is key to success in battlefield. This doctrine focuses on increasing squad's flexiblity and reaction speeds.
 
-6. **Mechanized Doctrine**
+See: [Tactical Superiority Doctrine Feats](/feats/first-layer/trooper/doctrines/tactical-superiority)
+
+### **Mechanized Doctrine**
 
 Flesh is weak, heavy metal and large guns solves many problems, maybe add a missile or two in the mix. This doctrine focuses on operating mechs and vehicles.
 
-7. **Indirect Fire Support Doctrine**
+See: [Mechanized Doctrine Feats](/feats/first-layer/trooper/doctrines/mechanized)
+
+### **Indirect Fire Support Doctrine**
 
 Why bother fighting the enemy fair and square with guns? Just blast them with heavy firepower. This doctrine focuses on shelling, shelling and more shelling.
+
+See: [Indirect Fire Support Doctrine Feats](/feats/first-layer/trooper/doctrines/indirect-fire-support)
