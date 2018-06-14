@@ -14,7 +14,7 @@ They progress via a unique system based on points awarded for surviving encounte
 
 ## Base Stats
 
-[Same as the Trooper class, outside of hitdie.](/classes/first-layer/trooper#base-stats).
+[Same as the Trooper class, outside of hitdie](/classes/first-layer/trooper#base-stats).
 
 ## Class Features
 
