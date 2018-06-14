@@ -58,7 +58,11 @@ h3:before {
     margin-top: -5em;
 }
 
-#header li a {
+#header nav {
+	background: none;
+}
+
+#header li a nav {
 	border: 1px solid #052438;
 	background-color: #0f2230;
 	color: #cde3fb;
@@ -79,6 +83,10 @@ h3:before {
     padding: 12px 16px;
     z-index: 1;
     top: 50px;
+}
+
+.dropdown a {
+	color: black;
 }
 
 .dropdown:hover .dropdown-content {
