@@ -1,5 +1,5 @@
 ---
-title: "Natia Miscere: Elite Doctrine"
+title: "Natia Miscere: Horde Doctrine"
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
 layout: default
 ---
