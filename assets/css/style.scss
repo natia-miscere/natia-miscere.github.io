@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+	background: #000000 url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+section {
+	background-color: rgba(37, 37, 37, 0.9);
+}
