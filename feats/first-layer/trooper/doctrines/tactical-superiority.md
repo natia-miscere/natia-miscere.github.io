@@ -58,7 +58,7 @@ Commanding officer of the squad gains 30 ft aura. Troopers within the aura may r
 
 As **squad** action, the officer allows all troops to advance towards a position, moving from cover to cover. As long as the troopers are advancing towards the location designated, they are **always** considered to be in partial cover (+3 AC).
 
-### Coordinated Retreat (B2)
+### Coordinated Retreat (B1)
 
 As **squad** action, the officer allows all troops to fall back towards a position. As long as the troopers are retreating to the location designated, they gain -4 penalty to attack, but they are **immune** to overwatch and suppression, and always considered to be in heavy cover.
 
