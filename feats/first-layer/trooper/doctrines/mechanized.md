@@ -58,7 +58,7 @@ Pilots with a rank of Cpl gains +1 bonus to their piloting skills. Every 3 ranks
 
 ### Ace Pilots (B1)
 
-Pilots with commendation gains +2 dodge. This dodge works with mech or vehicles.
+Pilots with commendation gains +2 dodge. This dodge works with mech or vehicles. Each new commendation grants the pilot additional +2 dodge. Caps at +10.
 
 ### Venerable Dreadnaughts (B2)
 
