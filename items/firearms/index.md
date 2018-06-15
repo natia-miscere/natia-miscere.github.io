@@ -69,3 +69,10 @@ Long rifles use **1** ammo per shot, and reloading them is a move action.
 | M40A7            | RF   | 1d12   | 19-20/x3     | 700 ft          | 10+1 | FG          |             |
 | SRS              | RF   | 1d12   | 19-20/x3     | 700 ft          | 7+1  | Mark Target |             |
 | FN Ballista      | RF   | 2d6    | 20/x4        | 1000 ft         | 8+1  | Suppression |             |
+
+## Shotguns
+
+| Name             | Type | Damage | Threat Range | Range Increment | Ammo | Special     | Description |
+|------------------|------|--------|--------------|-----------------|------|-------------|-------------|
+| SPAS-12          | SG   | 2d8    |      20/x2   |       20 ft     | 8+1  |   Civilian  |             |
+| USAS-12          | SG   | 4d10   |      20/x2   |       30 ft     | 20+1 | Suppression |             |
