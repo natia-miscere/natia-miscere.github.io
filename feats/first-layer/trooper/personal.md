@@ -145,7 +145,7 @@ Trooper gains ability to do out of ordinary actions befitting the situation once
 
 **Requirements:** Take massive damage and survive.
 
-As imemdiate action, once per encounter, Trooper reduces all incoming damage by 25%. **Stacks with Indomitable, but multiplicatively.**
+As imemdiate action, once per encounter, Trooper reduces all incoming damage by 25%. **Stacks with Indomitable additively.**
 
 ### Drill Instructor (Rank: Sergeant)
 
