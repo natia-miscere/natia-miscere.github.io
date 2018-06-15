@@ -203,10 +203,6 @@ Can be activated as reaction, once per day. After reaction is used, this ability
 
 ## Cost: 4 points
 
-### Headhunter
-
-Attacks now ignore armor, if applicable.
-
 ### Covert Ops (Rank: Specialist, X)
 
 Trooper with this perk gains massive +2 bonus to all physical ability scores. However, they cannot command anything bigger than squads.
@@ -244,3 +240,9 @@ Fillers can be chained again and again, but their effectiveness runs out due to 
 7. **Somersault Slam** (*R*) - As standard action, you slam the target with somersault momentum, dealing 2x weapon damage and staggering the target, DC scaling with your acrobatics check. Natural 1 on acrobatics do not cancel your attack. *With heavy blade,* it knocks the target prone as well on top of stagger.
 8. **Wide Slash-Out** (*R*) - As full round action, you slash outwards, dealing damage to all targets in front of you.
 9. **Power Attack** (*R*) - Gain 2 + (BAB / 2) damage on your melee attacks for a round, but with -(1 + BAB / 2) attack penalty.
+
+### Cost: 6 Points
+
+### Headhunter
+
+Attacks now ignore armor, if applicable.
