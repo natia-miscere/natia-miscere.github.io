@@ -33,23 +33,11 @@ Battlefield Doctrine Perks are divided in Tiers. With each Tier requiring differ
 
 ## Doctrines
 
-### **Defensive Doctrine**
-
-Relying on fortifications, good concrete walls and sandbags, defensive doctrine squad can hold a place for extended periods of time.
-
-See: [Defensive Doctrine Feats](/feats/first-layer/trooper/doctrines/defensive)
-
 ### **Elite Doctrine**
 
 True strength relies on few, but elite individuals. This doctrine focuses on boosting their squad member's ability scores and numerical stats by huge margin.
 
 See: [Elite Doctrine Feats](/feats/first-layer/trooper/doctrines/elite)
-
-### **Horde Doctrine**
-
-A way to win a battle is through war of attrition. Being well supplied, maintaining offense beyond normal breaking point is the tactic of this squad.
-
-See: [Horde Doctrine Feats](/feats/first-layer/trooper/doctrines/horde)
 
 ### **Assault Doctrine**
 
