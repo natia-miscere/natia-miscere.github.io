@@ -16,16 +16,7 @@ In addition, attacks or effects that involve a Reflex save do only half damage i
 
 **Prerequisites:** *Dex 15*
 
-Trooper gains reduced penalty from firing two weapons, one on each hand. The detail is given in the table below.
-
-| Circumstances                             | Primary Hand  | Offhand       |
-| ----------------------------------------- |:-------------:|:-------------:|
-| Both weapons are Pistols                  | 0             | 0             |
-| SMG or Shotgun in primary, Offhand pistol | -2            | 0             |
-| AR in primary, Offhand pistol             | -4            | -2            |
-| AR in primary, Offhand SMG or Shotgun     | -4            | -4            |
-| Double AR                                 | -6            | -6            |
-| Double MG (Requires STR 15, min.)         | -8            | -8            |
+Trooper can fire their sub projectile weapon as part of the attack action made with their primary weapon **without any penalty**. Does not apply to long rifles or heavy weapons.
 
 ### Vitality (Achievement, X)
 
@@ -49,7 +40,7 @@ Trooper with Hybrid Loadout perk may select **one** trait of another Loadout wit
 
 **Prerequisites:** ***No** One Man Army*
 
-Trooper with Camaraderie selects one character to bond with. When that bonded charactere moves, **you may also move for free.**
+Trooper with Camaraderie selects one character to bond with. When that bonded charactere moves, **you may also move for free.** If that boned character fires, **you can also fire at -4 penalty to attack, and -1 penalty to damage.**
 
 > If your bonded character dies, you get the feat point back.
 >
@@ -71,9 +62,9 @@ You may also convert a standard action cost move into swift action move once per
 
 Trooper may attack with melee weapon as swift action instead of standard action. You also gain a holster for a melee weapon regardless of the Loadout selected.
 
-### Extra Grenade (Rank: Private First Class)
+### Grenadier (Rank: Private First Class)
 
-Trooper gains 1 grenade slot regardless of Loadout.
+Trooper gains 1 grenade slot regardless of Loadout. **Grenades targetting a ground always hits.** You do not suffer critical failure when throwing grenades.
 
 ### Second Wind (Achievement)
 
@@ -83,19 +74,11 @@ When the Trooper is mortally struck, instead of going to negative HP, fall only 
 
 Also become immune to coup de grace attempts.
 
-### Buddy Shield
+### Phalanx Formation
 
-**Prerequisite:** *Camaraderie, CHA 12*
+**Prerequisite:** *CON 15*
 
-When near bonded ally, you can request to the bonded ally to take the hit for you once per round. If the buddy agrees, he or she gains DR equal to your level plus charisma modifier.
-
-### No One Gets Left Behind (Achievement, Rank: Sergeant)
-
-**Prerequisite:** *Non-Commissioned Officer, CHA 12*
-
-**Requirements:** Jeopardize your squad to save one trooper, and succeed in saving the trooper. You must have been in command.
-
-All troopers under this NCO's command gains bonus to their AC when retreating.
+When near another tank Loadout trooper, you can create a phalanx formation, gaining +10 AC, and providing heavy cover to all allies behind the shield wall. You may also move as one unit even with different initative. If move action is made in this immediate way, you lose move action at your turn.
 
 ### Gun Freak
 
@@ -118,11 +101,19 @@ Trooper as standard action, can place a duffle bag with additional kevlar, allow
 
 An ally can use Armor Package only once per encounter. Taking armor is swift action.
 
-### Advanced Aid
+### Morphine
 
 **Prerequisites:** *WIS 13*
 
-Trooper may roll heal skill to heal an ally for the roll result divided by 5 hp. This may used along with medikit for increased healing.
+Trooper may administer Morphine as part of medikit heal, adding WIS mod to the heal on top of the medikit. Also, the trooper administered with Morphine converts 3 damage taken as non-lethal damage. This pain numbening effect lasts for 1d4-(number of morphines administered in last week) rounds. If the result is negative, the person **may develop addiction.**
+
+### Epipen
+
+**Prerequisites:** *WIS 15, Morphine*
+
+Trooper gains ability to use a powerful medication, Epipen. Epipen **revives** any killed Soldier to 1 hp. However, they are staggered until they are healed to 50% of their hp.
+
+A trooper not using medical Loadout gains 1 charge. A trooper with medical Loadout gains **10** charges.
 
 ### Watch Out, Sir! (Rank: Sergeant)
 
@@ -156,14 +147,6 @@ Trooper gains ability to do out of ordinary actions befitting the situation once
 
 As imemdiate action, once per encounter, Trooper reduces all incoming damage by 25%. **Stacks with Indomitable, but multiplicatively.**
 
-### Field Medic
-
-**Prerequisites:** *WIS 13*
-
-Whenever an ally takes HP damage, a trooper with this feat can sprint at full speed towards the ally. This movement procs Overwatch as normal. The trooper gains +4 AC while moving this way.
-
-If the trooper reaches an ally, they are immediately stabilized if dying. If not, recieve healing equal to this trooper's level. Movement portion has no use limit, but it can only proc wisdom modifier times per round. Healing portion of the ability can be used only wisdom modifier times per encounter as well.
-
 ### Drill Instructor (Rank: Sergeant)
 
 **Prerequisites:** *CHA 13*
@@ -196,6 +179,12 @@ Trooper gains ability to shoot twice instead of once as full round action.
 
 Trooper gains ability to use one medikit (1d8+1), and one armor repair kit (1d6+1), once per day.
 
+### Saviour
+
+**Prerequisites:** *WIS 15*
+
+Trooper gains ability to sprint to allied target who just received HP damage as immediate action. After arrival, the medic may immediately administer medical treatment. Also, while using this ability, trooper **becomes immune to Overwatch fires.** This ability can be used at will.
+
 ## Cost: 3 points
 
 ### Adrenaline Rush (Achievement)
@@ -216,7 +205,7 @@ Can be activated as reaction, once per day. After reaction is used, this ability
 
 ### Headhunter
 
-Called shots against heads now has -4 penalty instead of -10.
+Attacks now ignore armor, if applicable.
 
 ### Covert Ops (Rank: Specialist, X)
 
@@ -240,7 +229,7 @@ Trooper can pilot all mech types, even Jaeger class Super Heavy Mechs.
 
 **Prerequisite:** *STR or DEX 18*
 
-Trooper develops an unique style with using a bladed weapon.
+Trooper develops an unique style with using a bladed weapon. **Add 0.5x STR or 0.5x DEX mod to your blade damage.**
 
 Trooper gains a special combo attack that requires multiple round to chain, but devastating. You can combine *Openers (O), Fillers (F)* and *Resolvers (R)*. They must be chained one after another strictly in order.
 
