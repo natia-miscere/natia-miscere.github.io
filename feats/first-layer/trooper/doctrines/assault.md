@@ -90,4 +90,20 @@ As part of any charge related action, grants squad +10 AC bonus against Overwatc
 
 ---
 
-## Tier C Perks
+## Tier C - Sub Doctrines
+
+Starting from 2nd Lieutenant, instead of just obtaining perks, this branch provides very unique bonuses that can be called as "Sub Doctrines".
+
+---
+
+## Elite Assault Ops - Team Alcatraz (CA)
+
+Select two members except the squad leader. The two selected members becomes Team "Alcatraz".
+
+Team "Alcatraz" Members gain following bonuses:
+
++ Gain *Lightning Reflexes* for free, if he or she already has one, gain +6 dodge.
++ Gain +2 ability score to all physical scores.
++ Gain 2 feat points.
++ Add all the characteristics of Basic Assault Loadout to any Loadout he or she wears.
+
