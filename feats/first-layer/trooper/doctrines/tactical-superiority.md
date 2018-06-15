@@ -20,7 +20,7 @@ All troopers gain +1 feat point.
 
 ### Custom Loadout (A1)
 
-Select a basic Loadout, and it loses all characteristics except armor one, then you can add 3 of (*H*) perks to make up your own Loadout.
+Select a basic Loadout, it loses all characteristics except armor one, then you can add 3 of (*H*) perks to make up your own Loadout.
 
 ### Nested Command (A2)
 
@@ -36,5 +36,34 @@ NCOs in your squad gains bonus of *Rapid Response* as well.
 
 ---
 
-# Tier B Perks
+## Tier B Perks
 
+### Battlefield Flexibility (B0)
+
+**Prerequisite**: *Tactical Edge*
+
+Feat chosen using this 1 feat point may be freely swapped out **during** battle.
+
+### Land Lease Program (B0)
+
+**Prerequisite**: *Custom Loadout*
+
+Select an advanced Loadout, it loses all characteristics except armor one, then you can add 3 of (*H*) perks **from basic Loadouts only** to make up your own Loadout. **It is considered to be Basic Loadout.**
+
+### Fluid Positioning (B0)
+
+Commanding officer of the squad gains 30 ft aura. Troopers within the aura may relocate to any place in the aura once per round as **immediate action.**
+
+### Coordinated Assault (B1)
+
+As **squad** action, the officer allows all troops to advance towards a position, moving from cover to cover. As long as the troopers are advancing towards the location designated, they are **always** considered to be in partial cover (+3 AC).
+
+### Coordinated Retreat (B2)
+
+As **squad** action, the officer allows all troops to fall back towards a position. As long as the troopers are retreating to the location designated, they gain -4 penalty to attack, but they are **immune** to overwatch and suppression, and always considered to be in heavy cover.
+
+> You cannot "fall back" towards enemy's position.
+
+### Flexible Doctrination (B2)
+
+Officer can swap A0 and A2 perk to other perk **once** per battle.
