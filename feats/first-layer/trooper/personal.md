@@ -241,7 +241,7 @@ Fillers can be chained again and again, but their effectiveness runs out due to 
 8. **Wide Slash-Out** (*R*) - As full round action, you slash outwards, dealing damage to all targets in front of you.
 9. **Power Attack** (*R*) - Gain 2 + (BAB / 2) damage on your melee attacks for a round, but with -(1 + BAB / 2) attack penalty.
 
-### Cost: 6 Points
+## Cost: 6 Points
 
 ### Headhunter
 
