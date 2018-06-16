@@ -123,4 +123,4 @@ All mechs now gain bonuses of Infantry only perks from Assault.
 
 ### Tank Hunter Corp (CA)
 
-Point Man Loadout can now carry launches at the cost of using 3 holsters.
+Point Man Loadout can now carry launchers at the cost of using 3 holsters.
