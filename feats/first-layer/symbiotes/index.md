@@ -63,3 +63,5 @@ The infected gains 6 small, lesser tendrils. They can attempt to pin humanoids u
 1. Link the victim as Dummy, attaching umbelical cord. The cord is extremely resilient, however, it can only extend upto 30 ft. The Dummy becomes one with the Infector, listening to every command given by the Infector unconditionally. Severing the cord frees the Dummy. Upto WIS mod Dummies can be maintained. New Dummy exceeding this limit frees the oldest one.
 2. Infect the victim with Level 1 Infection.
 3. Inject Bloodlings to grow inside the victim, eventually killing the host to spawn 2d2 Bloodlings. They obey the Infector unconditionally. Upto WIS mod x 4 Bloodlings can be controlled. Any Bloodling exceeding the limit goes feral.
+
+DC to resist these actions are 10+WIS mod Fort Save.
