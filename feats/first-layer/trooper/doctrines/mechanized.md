@@ -52,15 +52,19 @@ This mechanized corp has no particular specialty, but gains flexibility. All mec
 
 This mechanized corp is a true anvil. They gain +3/5 AC, +1/2 attack and damage and 2/4 ordinance points on their heavy or super heavy mechs/vehicles. However, they cannot field any other type.
 
-### Veteran Pilots (B1)
+### Expert Maintenance (B1)
+
+Once per encounter, a single critical failure roll made by a mech or vehicle can be negated.
+
+### Veteran Pilots (B2)
 
 Pilots with a rank of Cpl gains +1 bonus to their piloting skills. Every 3 ranks above Cpl adds another +1 to it.
 
-### Ace Pilots (B1)
+### Ace Pilots (B2)
 
 Pilots with commendation gains +2 dodge. This dodge works with mech or vehicles. Each new commendation grants the pilot additional +2 dodge. Caps at +10.
 
-### Venerable Dreadnaughts (B2)
+### Venerable Dreadnaughts (B3)
 
 Mechs and vehicles deserve recognition as well. Every 5 confirmed mechanized unit kills the mech scores, it gains 1 Decoration. Each decoration provides +1 saves to all units that can see the Decorated Mech/Vehicle. The bonus caps at +3.
 
