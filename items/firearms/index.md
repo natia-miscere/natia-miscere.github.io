@@ -54,6 +54,7 @@ Assault Rifles use **6** ammo per shot, and reloading them is a move action.
 | AK 47       | AR   | 2d4    | 20/x3        | 120ft           | 30+1 | AP          | AK-47 boasts very powerful ammunition.                                 |
 | M4A1        | AR   | 3d3    | 20/x3        | 120ft           | 30+1 | FG          | Bread and Butter AR of many military.                                  |
 | ST AR 15    | AR   | 3d3    | 20/x3        | 120ft           | 30+1 | Mark Target | ST AR 15 grants +1 to hit chance to all allies against last target.    |
+| G36         | AR   | 3d3    | 20/x3        | 120ft           | 30+1 | LMG         | G36 can mount 100 round drum mag to function as a LMG. |
 | FA-MAS F1   | AR   | 2d4    | 20/x3        | 120ft           | 25+1 | Suppression | FA-MAS F1 imposes -3 instead of -2 with suppression.                   |
 | ACR         | AR   | 3d3    | 20/x3        | 120ft           | 30+1 | GL          | Adaptive Combat Rifle can be attached with various gears.              |
 | Kel-Tec RFB | AR   | 1d10   | 20/x4        | 180ft           | 20+1 | Mark Target | Kel-Tec RFB grants +2 to hit chance to all allies against last target. |
