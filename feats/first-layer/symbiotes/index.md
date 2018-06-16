@@ -53,3 +53,13 @@ A giant tendril spurts out from the infected's back, granting them an extra limb
 This extra limb grants additional 8 HP and has hardness of 10.
 
 > Overtime, Polymelia assimilates with the host, returning the Body Slot cost. **However, once fully returned, the Polymelia evolution cannot be removed.**
+
+### Infector Aspect
+
+**Requirements:** *3 Body Slots, WIS 16*
+
+The infected gains 6 small, lesser tendrils. They can attempt to pin humanoids using 1d20+BAB+WIS mod CMB check. When pinned, as full round action, the Infector can either:
+
+1. Link the victim as Dummy, attaching umbelical cord. The cord is extremely resilient, however, it can only extend upto 30 ft. The Dummy becomes one with the Infector, listening to every command given by the Infector unconditionally. Severing the cord frees the Dummy. Upto WIS mod Dummies can be maintained. New Dummy exceeding this limit frees the oldest one.
+2. Infect the victim with Level 1 Infection.
+3. Inject Bloodlings to grow inside the victim, eventually killing the host to spawn 2d2 Bloodlings. They obey the Infector unconditionally. Upto WIS mod x 4 Bloodlings can be controlled. Any Bloodling exceeding the limit goes feral.
