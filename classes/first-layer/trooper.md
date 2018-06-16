@@ -38,7 +38,7 @@ At level 1, Trooper gains 1 feat point to invest in the feat tree, at level 2, a
 
 ---
 
-## Currently Available Loadout List
+## Basic Loadouts
 
 ### Assault - Basic:
 
@@ -140,6 +140,8 @@ Squad Leader gives up direct firepower for utility. Squad Leader gains pistol ho
 
 ---
 
+## Advanced Loadouts
+
 ### Point Man - Advanced:
 
 **Prerequisites:** *DEX 15*
@@ -179,3 +181,26 @@ Pathfinders are masters of mobility. They carry one main holster for SMG, melee 
 >
 > **Gunslinger:** Gain immediate action pistol attack, upto half your DEX mod times a day.
 
+### Electroguard - Advanced
+
+**Prerequisites:** *Phalanx Formation, CON 15*
+
+Electroguard Loadout is special blueprint you have acquired from Gaya Tech Vault. This tank build boasts special flashbang shield along with electrocharge zoning. One holster for SMG or pistols.
+
++ Gain 20 armor.
++ Gain flash tactical shield, which when used to hunker down, provides cover to allies behind it. Also, as standard action, you can discharge flashbang load on the front of the shield, forcing enemies to roll save against flashbang effects in 20 ft cone.
++ Gain +4 AC.
++ Can discharge electric aura using batter supply, dealing 1d4 electric damage to all targets in 20 ft cone in front of the Electroguard.
+
+### Valkyrie - Advanced
+
+**Prerequisites:** *Saviour, WIS 15*
+
+Many times during catastrophe recovery situations, obstacles were an issue for medical staff to reach the ones in need. Valkyrie Loadout grants energy wings, which grants 10 ft hover capability and 60 ft flight speed. **No weapon holster.**
+
++ Gain 6 armor, 6 dodge.
++ Gain ability to heal as standard action, 1d8 + level.
++ Gain ability to stabilize any dying allies to 0 hp as swift action.
++ Gain ability to fly with specifications listed above for 3 rounds, 1 round cooldown.
++ Receive no falling damage from falling less than 60 ft.
++ Can glide, travelling 60 ft for every 10 ft fallen.
