@@ -19,6 +19,28 @@ Each Mech or Vehicle model has slots, and set amount of points called *Ordinance
   + Small Ballistic - Left Arm
 + **Speed** - 40 ft
 
+### Wolfhound - Light Mech (Remodeled from Teapot Mk I)
+
++ **Armor** - 25
++ **Ordinance Point Cap** - 15
++ **Slots**
+  + Small Missile - Right Shoulder
+  + Small Missile - Left Shoulder
+  + No Arms
++ **Speed** - 40 ft
++ **Built-In Modules**
+  + Vigilance Class RADAR - Gain 120 ft vision range.
+  
+### Knight Errant - Light Mech (Remodeled from Teapot Mk I)
+
++ **Armor** - 40
++ **Ordinance Point Cap** - 15
++ **Slots**
+  + Small Ballistic - Right Arm
++ **Speed** - 40 ft
++ **Built-In Modules**
+  + Punisher Class Chainsword - Gain 2d8 melee attack. Can cleave multiple targets. Reach 5 ft.
+
 ---
 
 ## Modules
@@ -45,26 +67,48 @@ A devastating single shot weapon, contains one shell in magazine, reloads automa
 
 ## Hull Modifications
 
-### Additional Plating
+### Cost: 1 OP
 
-+ **1 OP per application**
+#### Additional Plating
 
-Gain 5 additional armor.
+Gain 5 additional armor. Can be applied multiple times.
 
-### Efficient Servos
+#### Jump Jet
 
-+ **3 OP**
+Gain 30 ft jump range. Cooldown is 1d4 rounds. Each application bolsters range by 15 ft. At every 30 ft range gained after 1st increment, increase the Cooldown by 1 round.
 
-Gain +10 movement speed.
+---
 
-### Auto FCS System Mk I
+### Cost: 2 OP
 
-+ **2 OP**
+#### Auto FCS System Mk I
 
 Gain 1 additional AoO.
 
-### Redoubt Shielding System
+#### Aegis Interception System
 
-+ **5 OP**
+Missiles can be launched to intercept other missile projectiles.
+
+---
+
+### Cost: 3 OP
+
+#### Efficient Servos
+
+Gain +10 movement speed.
+
+---
+
+### Cost: 4 OP
+
+#### Rapid Missile Racks
+
+All missiles reload in 1 round.
+
+---
+
+### Cost: 5 OP
+
+#### Redoubt Shielding System
 
 When hunkering down, gain 25 Aura, and project it in 15 ft radius. Any projectile attack made to targets inside the radius, the shield takes the damage. Shield refreshes every round. If shield shatters by taking too much damage, RSS is unavailable for 1d3 rounds.
