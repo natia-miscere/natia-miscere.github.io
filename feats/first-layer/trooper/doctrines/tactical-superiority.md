@@ -54,16 +54,20 @@ Select an advanced Loadout, it loses all characteristics except armor one, then 
 
 Commanding officer of the squad gains 30 ft aura. Troopers within the aura may relocate to any place in the aura once per round as **immediate action.**
 
-### Coordinated Assault (B1)
+### Tactical Acumen (B1)
+
+NCO feat used by commanding officer now grants a full turn instead of standard action.
+
+### Coordinated Assault (B2)
 
 As **squad** action, the officer allows all troops to advance towards a position, moving from cover to cover. As long as the troopers are advancing towards the location designated, they are **always** considered to be in partial cover (+3 AC).
 
-### Coordinated Retreat (B1)
+### Coordinated Retreat (B2)
 
 As **squad** action, the officer allows all troops to fall back towards a position. As long as the troopers are retreating to the location designated, they gain -4 penalty to attack, but they are **immune** to overwatch and suppression, and always considered to be in heavy cover.
 
 > You cannot "fall back" towards enemy's position.
 
-### Flexible Doctrination (B2)
+### Flexible Doctrination (B3)
 
 Officer can swap A0 and A2 perk to other perk **once** per battle.
