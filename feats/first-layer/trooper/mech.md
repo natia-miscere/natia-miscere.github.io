@@ -45,23 +45,37 @@ Each Mech or Vehicle model has slots, and set amount of points called *Ordinance
 
 ## Modules
 
-### Wolf-Pack Missile Launcher
+### Missiles/Small
 
-**Small Missile / 4 OP**
+#### Wolf-Pack Missile Launcher
+
+**4 OP**
 
 Fires 3 missiles as standard action, each dealing HE damage of 1d12+5. The missiles land in random vicinity of the enemies. Mech Piloting Skill check of DC 15 allows you to pin point targets. Range 100 ft. Roll 1d4 to determine rounds requires to reload.
 
-### Mk XXIV Mortar
+---
 
-**Small Ballistic / 2 OP**
+### Ballistic/Small
+
+#### Mk XXIV Mortar
+
+**2 OP**
 
 Launches a single mortar shell, dealing HE damage equal to 1d6+4 as standard action. Can fire over obstacles, and load smoke shells to provide smoke cover. Range 120 ft.
 
-### C90 Gauss Rifle
+#### C90 Gauss Rifle
 
-**Small Ballistic / 4 OP**
+**4 OP**
 
 A devastating single shot weapon, contains one shell in magazine, reloads automatically every round. Deals 2d8 **true** damage, each penetration reduces damage by 50%, and can penetrate upto 3 targets maximum. Firing Gauss Rifle is standard action.
+
+#### C100/50 Assault Chaingun
+
+**5 OP**
+
+A massive, 10.5 mm Chaingun, it deals massive 4d4 damage to a single target, OR, can sweep in a 30 ft cone to deal 4 damage to all targets.
+
+Everytime it fires, it gains 3 heat. At 5 heat, the weapon is disabled. Loses 1 heat per round passively, not firing the weapon cools it down at double rate.
 
 ---
 
@@ -89,6 +103,10 @@ Gain 1 additional AoO.
 
 Missiles can be launched to intercept other missile projectiles.
 
+#### Rapid Missile Racks
+
+A single, selected missile slot reload in 1 round. Can be attached multiple times.
+
 ---
 
 ### Cost: 3 OP
@@ -101,9 +119,9 @@ Gain +10 movement speed.
 
 ### Cost: 4 OP
 
-#### Rapid Missile Racks
+#### Hoplite Class Plating
 
-All missiles reload in 1 round.
+Gains DR 3/- against AP damage and +1 AC.
 
 ---
 
