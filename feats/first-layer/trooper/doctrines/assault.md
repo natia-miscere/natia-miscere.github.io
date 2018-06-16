@@ -90,7 +90,7 @@ As part of any charge related action, grants squad +10 AC bonus against Overwatc
 
 ---
 
-## Tier C - Sub Doctrines
+# Tier C - Sub Doctrines
 
 Starting from 2nd Lieutenant, instead of just obtaining perks, this branch provides very unique bonuses that can be called as "Sub Doctrines".
 
@@ -107,3 +107,20 @@ Team "Alcatraz" Members gain following bonuses:
 + Gain 2 feat points.
 + Add all the characteristics of Basic Assault Loadout to any Loadout he or she wears.
 
+---
+
+## Tactical Offensive Corp (CA)
+
+Gain one of the A0 and A2 perks from Tac. Sup. Doctrine.
+
+---
+
+## Mechanized Assault Corp (CA)
+
+All mechs now gain bonuses of Infantry only perks from Assault.
+
+---
+
+## Tank Hunter Corp (CA)
+
+Point Man Loadout can now carry launches at the cost of using 3 holsters.
