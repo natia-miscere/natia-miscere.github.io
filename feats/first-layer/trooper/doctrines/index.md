@@ -24,7 +24,6 @@ Battlefield Doctrine Perks are divided in Tiers. With each Tier requiring differ
   + **Tier B0 (Staff Sergeant)**
   + **Tier B1 (Master Sergeant)**
   + **Tier B2 (Sergeant Major)**
-  + **Tier B3 (Warrant Officer)**
 + **Tier C, Category:Skirmish Phase - 2nd Lieutenant**
 + **Tier D, Category:Engagement Phase - Captain**
 + **Tier E, Category:Battle Phase - Major**
