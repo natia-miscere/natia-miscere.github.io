@@ -86,17 +86,15 @@ When the Assault Squad first engages enemy, the squad leader rolls intimidate, u
 
 ### Heroic Charge (B3)
 
-As part of any charge related action, grants squad +10 AC bonus against Overwatch, and DR 5/- for the duration of charge. Can be used level times a day.
+As part of any charge related action, grants squad +10 AC bonus against Overwatch, and DR 5/- for the duration of charge. Can be used once a day.
 
 ---
 
-## Tier C - Sub Doctrines
+## Tier C - Skirmish Phase
 
-Starting from 2nd Lieutenant, instead of just obtaining perks, this branch provides very unique bonuses that can be called as "Sub Doctrines".
+Starting from 2nd Lieutenant, you just flat out gain all the perks listed below. Abilities however, cannot be used until a combat session has reached so called **Skirmish Phase**. Skirmish phase is usually activated within first few rounds of combat and session.
 
----
-
-### Elite Assault Ops - Team Alcatraz (CA)
+### Team Alcatraz
 
 Select two members except the squad leader. The two selected members becomes Team "Alcatraz".
 
@@ -104,23 +102,5 @@ Team "Alcatraz" Members gain following bonuses:
 
 + Gain *Lightning Reflexes* for free, if he or she already has one, gain +6 dodge.
 + Gain +2 ability score to all physical scores.
-+ Gain 2 feat points.
-+ Add all the characteristics of Basic Assault Loadout to any Loadout he or she wears.
++ Gain 1 feat point.
 
----
-
-### Tactical Offensive Corp (CA)
-
-Gain one of the A0 and A2 perks from Tac. Sup. Doctrine.
-
----
-
-### Mechanized Assault Corp (CA)
-
-All mechs now gain bonuses of Infantry only perks from Assault.
-
----
-
-### Tank Hunter Corp (CA)
-
-Point Man Loadout can now carry launchers at the cost of using 3 holsters.
