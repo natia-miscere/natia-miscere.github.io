@@ -20,5 +20,4 @@ None publicly available.
 
 ### Third Layer
 
-None publicly available.
-
+[Solar Neophyte](/classes/third-layer/solar-neophyte), followers of the Living Sun.
