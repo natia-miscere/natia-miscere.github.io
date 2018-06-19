@@ -69,4 +69,10 @@ Details:
 - Pygmalion Dolls may allocate +2 to any ability score of their choice, similar to humans, but they may never surpass 10 strength under any circumstances.
 - Pygmalion Dolls may never be any alignment other than True Neutral. They obey their allocated master without question, though they manifest their own personalities when allowed to roam or instructed to be free. Dolls without a master or who have actively seen their master die must seek out a new one as their prime directive.
 
+## Lizardfolk/Kitsune/Tengu
 
+Refer to these links for information about [Lizardfolks](http://www.d20pfsrd.com/races/other-races/more-races/standard-races-1-10-rp/lizardfolk-8-rp), [Kitsunes](http://www.d20pfsrd.com/races/other-races/uncommon-races/arg-kitsune) and [Tengus](http://www.d20pfsrd.com/races/other-races/featured-races/arg-tengu).
+
+## Last Bastion Races
+
+Access the [page](/last-bastion/index) here for more details.
