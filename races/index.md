@@ -75,4 +75,4 @@ Refer to these links for information about [Lizardfolks](http://www.d20pfsrd.com
 
 ## Last Bastion Races
 
-Access the [page](/last-bastion/index) here for more details.
+Access the [page](races/last-bastion/index) here for more details.
