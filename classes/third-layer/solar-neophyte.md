@@ -32,6 +32,7 @@ At level 1, Solar Neophytes gain a crimson inscription that is branded on their 
 
 At level 1, Solar Neophytes gain ability to fire bolts of flame at enemies as standard action. The Neophyte makes a ranged touch attack, with range of 30 ft. The ability deals 1d4+0.5 CON mod fire/magical damage, and can be used CON mod times a day.
 
-### Hearthfire (Su):
+### Warmth (Su):
 
-At level 1, Solar Neophytes passively receives healing by the grace of the fire, which they receive from the Living Sun through the instrument which is the Crimson Pact. They gain fast healing CON mod/2 (min 1).
+At level 1, Solar Neophytes gains ability of healing by the grace of the fire, which they receive from the Living Sun through the instrument which is the Crimson Pact. As standard action, they can heal themselves for CON mod, CHA mod times a day.
+
