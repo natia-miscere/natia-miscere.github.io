@@ -14,6 +14,8 @@ There are a variety of custom classes available for play, based a character's or
 
 [Moonspawn](/classes/first-layer/moonspawn)
 
+[Civilian](/classes/first-layer/civilian)
+
 ### Second Layer
 
 None publicly available.
