@@ -16,6 +16,8 @@ You may also want to check out the [Battlefield Doctrine feats page](/feats/firs
 
 [See the Black Blood Evolutions page](/feats/first-layer/symbiotes) for more details about Symbiote Evolutions.
 
+[See the Civilian Feat page](/feats/first-layer/civilian/feats) for more details about [Civilian](/classes/first-layer/civilian) feats.
+
 ## Second Layer
 
 Not yet released.
