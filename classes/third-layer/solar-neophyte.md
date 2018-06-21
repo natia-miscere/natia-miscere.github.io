@@ -1,7 +1,7 @@
 ---
 title: "Natia Miscere: Solar Neophyte"
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
-layout: index
+layout: default
 ---
 
 ## Base Stats
@@ -36,3 +36,8 @@ At level 1, Solar Neophytes gain ability to fire bolts of flame at enemies as st
 
 At level 1, Solar Neophytes gains ability of healing by the grace of the fire, which they receive from the Living Sun through the instrument which is the Crimson Pact. As standard action, they can heal themselves for CON mod, CHA mod times a day.
 
+### Adaptations (Su):
+
+Starting from level 2 and every 2 levels after, Solar Neophyte can pick **Adaptations.** Adaptations are special abilities which allows the Neophyte to specialize.
+
+[Adaptation](/classes/third-layer/solar-neophyte-adaptations) list can be found here.
