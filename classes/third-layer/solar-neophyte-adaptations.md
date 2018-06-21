@@ -4,6 +4,8 @@ description: A homebrew middle-fantasy/science fiction d20 roleplaying game syst
 layout: default
 ---
 
+[Back to Solar Neophyte Page](/classes/third-layer/solar-neophyte)
+
 ### Flaming Vitality
 
 **Prerequisites:** *CON 18*
