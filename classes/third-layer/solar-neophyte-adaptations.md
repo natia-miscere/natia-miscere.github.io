@@ -4,21 +4,21 @@ description: A homebrew middle-fantasy/science fiction d20 roleplaying game syst
 layout: default
 ---
 
-### Flaming Vitality:
+### Flaming Vitality
 
 **Prerequisites:** *CON 18*
 
 Solar Neophyte gains +2 HP per hit die.
 
-### Scorching Ray:
+### Scorching Ray
 
 Draining their own health, Solar Neophyte fires a ray, dealing *Firebolt* damage to all targets in a line, with a range of 50 ft as standard action. Solar Neophyte drains level x 2 hp per round maintaining this.
 
-### Multibolt:
+### Multibolt
 
 Solar Neophyte can fire multiple *Firebolt*, upto 1+CHA mod bolts as FRA.
 
-### Ember Shield:
+### Ember Shield
 
 **Prerequisites:** *CHA 13*
 
@@ -26,7 +26,7 @@ Solar Neophyte uses their life force to fuel a shield. As FRA, they lose their m
 
 Maintaing Ember Shield is FRA action. If the shield breaks, Solar Neophyte is staggered for 1d3 rounds.
 
-### Hearthfire:
+### Hearthfire
 
 **Prerequisites:** *CHA 13*
 
