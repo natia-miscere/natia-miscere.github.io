@@ -38,6 +38,6 @@ At level 1, Solar Neophytes gains ability of healing by the grace of the fire, w
 
 ### Adaptations (Su):
 
-Starting from level 2 and every 2 levels after, Solar Neophyte can pick **Adaptations.** Adaptations are special abilities which allows the Neophyte to specialize.
+Starting from level 2 and every level after, Solar Neophyte can pick **Adaptations.** Adaptations are special abilities which allows the Neophyte to specialize.
 
 [Adaptation](/classes/third-layer/solar-neophyte-adaptations) list can be found here.
