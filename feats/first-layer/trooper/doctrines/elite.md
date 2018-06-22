@@ -67,3 +67,17 @@ Squad Members gain +1 free feat point.
 ### Special Forces Support (B3)
 
 Every other squad that is presented with existence of Elite Squad receives a portion of their training in the free time, granting +1 damage bonus to all other squads in the field.
+
+---
+
+## Tier C - Skirmish Phase
+
+Starting from 2nd Lieutenant, you just flat out gain all the perks listed below. Abilities however, cannot be used until a combat session has reached so called **Skirmish Phase**. Skirmish phase is usually activated within first few rounds of combat and session.
+
+### Elan Vitale
+
+Once per combat, trooper associate with Elite Squad takes 20 in Will Save.
+
+### Company of Heroes
+
+Squad Members gain +1 to ability scores, one save of their choice, AC, attack and damage.
