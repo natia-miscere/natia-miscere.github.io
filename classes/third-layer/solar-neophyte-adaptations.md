@@ -8,7 +8,7 @@ layout: default
 
 ### Flaming Vitality
 
-**Prerequisites:** *CON 18*
+**Prerequisites:** *CON 13*
 
 Solar Neophyte gains +2 HP per hit die.
 
@@ -33,3 +33,17 @@ Maintaing Ember Shield is FRA action. If the shield breaks, Solar Neophyte is st
 **Prerequisites:** *CHA 13*
 
 Warmth can now heal others within touch range.
+
+### Lavaborn
+
+**Prerequisites:** *CON 15*
+
+Solar Neophyte gains ability to raise their arm temperature to deadly degree, making their arms molten as swift action. They take level x 2 damage per round this is active, but gains 1d6+CON mod fire/physical slam attack.
+
+### Firefly
+
+**Prerequisites:** *Level 4, CHA 15*
+
+As swift action, Solar Neophyte can transform into either: dove, rook, raven or hawk shaped fire elemental of small size and fly to any position within 60 ft. When they reach the destination, they shift back to their original form as free action.
+
+This ability can be used CHA mod times a day.
