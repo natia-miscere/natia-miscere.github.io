@@ -104,3 +104,6 @@ Team "Alcatraz" Members gain following bonuses:
 + Gain +2 ability score to all physical scores.
 + Gain 1 feat point.
 
+### Assaults Lead the Way
+
+Assault Squad always take 20 in initiative.
