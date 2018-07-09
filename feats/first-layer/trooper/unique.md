@@ -1,5 +1,5 @@
 ---
-title: "Natia Miscere: Task Force Omega Trooper Feats"
+title: "Natia Miscere: Unique Feats"
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
 layout: default
 ---
