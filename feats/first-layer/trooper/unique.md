@@ -1,3 +1,9 @@
+---
+title: "Natia Miscere: Task Force Omega Trooper Feats"
+description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
+layout: default
+---
+
 ## Bonds
 
 Each NPC now provide unique bonuses if you have reached camaraderie with them. Larger the bonus, harder it is to become friends with them.
@@ -61,3 +67,8 @@ You gain fire resistance 1.
 #### Moriaty's Guide to Everything - Dr. Moriaty
 
 You gain +1 to all knowledge checks, and may roll them untrained.
+
+---
+
+## Character Unique Feats
+
