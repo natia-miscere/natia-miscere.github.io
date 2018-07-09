@@ -1,4 +1,4 @@
-# Bonds
+## Bonds
 
 Each NPC now provide unique bonuses if you have reached camaraderie with them. Larger the bonus, harder it is to become friends with them.
 
