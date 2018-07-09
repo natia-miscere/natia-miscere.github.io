@@ -76,22 +76,19 @@ You gain +1 to all knowledge checks, and may roll them untrained.
 
 ### WAAAAGH
 
-As Elyse continues to fight, she starts to accumulate psychic energy called WAAAAGH. The more WAAAAGH she accumulate, more blunt and crude she becomes in her manner of speech and behavior. She gains one stack of WAAAAGH every turn she has fought.
+Refusing to believe in the reality which are abilities, Elyse has gained access to tap into primal psychic energy. As Dr. Moriaty was missing an eloquent word to contain the terminology Warfare Augmented Aura Absorbtion Genetic Hereditary, it is dubbed as, WAAAGH. 
 
-Each stack of WAAAAGH grants following:
+Tapping into WAAAGH is dangerous, and weaker when not used in heat of battle.
 
-+ Thrill of dakka dakka
-+ No mukking about
-+ That sister over dere iz dead
-+ +1 to Will Save against fear that stacks **indefinitely**.
-+ More choppa
-+ More dakka
-+ L00t and 1337
-+ Every 2nd stack of WAAAAGH provides one stack of WAAAAGH to all troops under her command.
-+ Dakka dakka
-+ Punch toof out of enemi
-+ WAAAAGH
-+ Gain 5 ft movement speed per stack.
+Whenever Elyse is attacked, or attacks, she gains 2 WAAAGH charge.
+
+Whenever an ally is attacked or attacks, she gains 1 WAAAGH charge.
+
+She may stock WAAAGH charges equal to her total ability score mod.
+
+When at least one WAAAGH charge is available, she may unleash the potential, driving her into a psychic induced rage as standard action. She gains STR, DEX, CON score equal to number of charges consumed, to a maximum of 2 x level. She also gains DR/- equal to half the charges consumed for **pre-rage** CON mod rounds.
+
+After the rage is over, she is weakened significantly, receiving the bonus ability score gained as ability damage. This damage is healed after full rest.
 
 ---
 
@@ -100,6 +97,8 @@ Each stack of WAAAAGH grants following:
 ### Orihalcon Class Skeletal Framework
 
 Vanessa, with help of Dr. Moriaty, starts rigorous work of preparing her body to accept mechanical implants. Orihalcon Class Skeletal Framework grants her +2 bonus to all her physical ability scores, but she receives 1.5x damage from electric damage.
+
+Vanessa gains armor equal to her level x 2.
 
 Critical hits from electric sources will knock her immediately unconscious.
 
@@ -130,3 +129,5 @@ Siji gains a passive shadow of Susanoo floating behind her back when not in comb
 ### Jolly Cooperation of Two Creatures
 
 Charles becomes animal companion of Romulus, and can be played simultaneously.
+
+Romulus and Charles can swap initiatives as immediate action.
