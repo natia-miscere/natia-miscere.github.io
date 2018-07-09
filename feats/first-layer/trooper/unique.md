@@ -92,3 +92,39 @@ Each stack of WAAAAGH grants following:
 + Punch toof out of enemi
 + WAAAAGH
 + Gain 5 ft movement speed per stack.
+
+---
+
+## Vanessa
+
+### Orihalcon Class Skeletal Framework
+
+Vanessa, with help of Dr. Moriaty, starts rigorous work of preparing her body to accept mechanical implants. Orihalcon Class Skeletal Framework grants her +2 bonus to all her physical ability scores, but she receives 1.5x damage from electric damage.
+
+Critical hits from electric sources will knock her immediately unconscious.
+
+---
+
+## Siji
+
+### Susanoo no Mikoto
+
+Uncanny incarnation, resulting from bond with Jessica, rueful hate against her current situation as an encoded servant, and misc. feelings, Siji gains ability to summon a powerful deity incarnate that stemmed from the breach that Lera made from her other world.
+
+Severely limited by Siji's lack of power, Susanoo can manifest and exist only as far as 30 ft away from Siji at best. Also, Susanoo can only exist in combat corporeal form for 1 round a day. This duration will improve as Siji gets stronger.
+
+Susanoo is estimated to be around level 3~7 individual at current limitations.
+
+Susanoo does not speak, but understands.
+
+Susanoo takes the form of fearful storm elemental, and is considered Large or Medium as environment demands.
+
+Susanoo may not follow orders if his own judgement warrants better result.
+
+---
+
+## Romulus
+
+### Jolly Cooperation of Two Creatures
+
+Charles becomes animal companion of Romulus, and can be played simultaneously.
