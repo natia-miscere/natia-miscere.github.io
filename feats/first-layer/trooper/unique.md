@@ -121,6 +121,8 @@ Susanoo takes the form of fearful storm elemental, and is considered Large or Me
 
 Susanoo may not follow orders if his own judgement warrants better result.
 
+Siji gains a passive shadow of Susanoo floating behind her back when not in combat and haven't used up the duration for the day, granting her 1d4 Omni buffer per level. This buffer is lost when Susanoo is summoned.
+
 ---
 
 ## Romulus
