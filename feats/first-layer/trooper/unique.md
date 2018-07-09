@@ -74,7 +74,7 @@ You gain +1 to all knowledge checks, and may roll them untrained.
 
 ## Elyse
 
-### WAAAAGH
+### WAAAGH
 
 Refusing to believe in the reality which are abilities, Elyse has gained access to tap into primal psychic energy. As Dr. Moriaty was missing an eloquent word to contain the terminology Warfare Augmented Aura Absorbtion Genetic Hereditary, it is dubbed as, WAAAGH. 
 
