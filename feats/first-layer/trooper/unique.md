@@ -72,3 +72,23 @@ You gain +1 to all knowledge checks, and may roll them untrained.
 
 # Character Unique Feats
 
+## Elyse
+
+### WAAAAGH
+
+As Elyse continues to fight, she starts to accumulate psychic energy called WAAAAGH. The more WAAAAGH she accumulate, more blunt and crude she becomes in her manner of speech and behavior. She gains one stack of WAAAAGH every turn she has fought.
+
+Each stack of WAAAAGH grants following:
+
++ Thrill of dakka dakka
++ No mukking about
++ That sister over dere iz dead
++ +1 to Will Save against fear that stacks **indefinitely**.
++ More choppa
++ More dakka
++ L00t and 1337
++ Every 2nd stack of WAAAAGH provides one stack of WAAAAGH to all troops under her command.
++ Dakka dakka
++ Punch toof out of enemi
++ WAAAAGH
++ Gain 5 ft movement speed per stack.
