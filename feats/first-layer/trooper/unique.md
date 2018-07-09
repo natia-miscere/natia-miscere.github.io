@@ -113,7 +113,7 @@ Uncanny incarnation, resulting from bond with Jessica, rueful hate against her c
 
 Severely limited by Siji's lack of power, Susanoo can manifest and exist only as far as 30 ft away from Siji at best. Also, Susanoo can only exist in combat corporeal form for 1 round a day. This duration will improve as Siji gets stronger.
 
-Susanoo is estimated to be around level 3~7 individual at current limitations. Given an offering, he may surge upto level 10 tier strength. His original strength is to be around same as Aerian, Nekros, Kairon and Nethys, which is around level 80 with maximum Divine Rank.
+Susanoo is estimated to be around level 3 at current limitations. Given an offering, he may surge upto level 5 strength. His original strength is estimated to be around same as Aerian, Nekros, Kairon and Nethys, which is around level 80 with maximum Divine Rank.
 
 Susanoo does not speak, but understands.
 
