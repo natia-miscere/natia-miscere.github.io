@@ -18,9 +18,7 @@ There is also a third type of feat for squad leaders or high ranked soldiers nam
 
 ## Battlefield Doctrines
 
-Troopers of sufficient military rank also have access to powerful, squad-wide feats known as *Battlefield Doctrines*. These are based on military rank and not actual character progression.
-
-[See the Battlefield Doctrines page for more information.](/feats/first-layer/trooper/doctrines)
+[REDACTED]
 
 ## Mechanized Customization
 
