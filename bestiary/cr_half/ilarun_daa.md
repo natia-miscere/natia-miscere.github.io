@@ -50,4 +50,4 @@ N Medium Ilarun
  
 + Iron Bunnies
 
- Doe-at-Arms primary task is to form a battle line. If Doe-at-Arms have another Doe-at-Arms adjacent, they both gain DR 1 against physical.
+ Doe-at-Arms primary task is to form a battle line. If Doe-at-Arms have another Doe-at-Arms adjacent, they both gain DR 1 against physical. This does not stack.
