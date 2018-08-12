@@ -9,9 +9,11 @@ layout: index
 + [Ilarun Militia (CR 1/4)](cr_quarter/ilarun_militia)
 + [Ilarun Doe-at-Arms (CR 1/2)](cr_half/ilarun_daa)
 + [Kitsune Rogue (CR 1/2)](cr_half/kitsune_rogue)
++ [Tribesman (CR 1/2)](cr_half/tribesman)
 
 ## CR 1
 
++ [Solar Neophyte (CR 1)](cr1/solar_neophyte)
 + [Ilarun Doe-Edler (CR 1)](cr1/ilarun_doe_edler)
 + [Tengu Highlander (CR 1)](cr1/tengu_highlander)
 + [Lizardfolk Acolyte (CR 1)](cr1/lizardfolk_acolyte)
