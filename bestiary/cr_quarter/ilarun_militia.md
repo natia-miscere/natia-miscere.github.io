@@ -1,7 +1,7 @@
 ---
 title: "Ilarun Militia"
 description: A homebrew middle-fantasy/science fiction d20 roleplaying game system based on Pathfinder
-layout: default
+layout: bestiary
 ---
 
 N Medium Ilarun
