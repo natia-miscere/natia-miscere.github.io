@@ -11,9 +11,9 @@ N Medium Ilarun
 ---
 **Defense**
 
-**AC** 13, touch 6, flat-footed 11 (+1 Armor, +2 Dex)
+**AC** 14, touch 7, flat-footed 12 (+1 Armor, +2 Dex, +1 Shield)
 
-**Armor** 3
+**Armor** 3 (+2 Armor, +1 Shield)
 
 **HP** 7 (1d4+3)
 
