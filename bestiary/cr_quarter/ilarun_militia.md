@@ -6,7 +6,7 @@ layout: bestiary
 
 N Medium Ilarun
 
-**Init**: +; **Senses**: Low light vision; Perception +2
+**Init**: +2; **Senses**: Low light vision; Perception +2
 
 ---
 **Defense**
