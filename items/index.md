@@ -5,3 +5,5 @@ layout: index
 ---
 
 See the [firearms page](/items/firearms/) for more information.
+
+For Post Downfall Advanced Tech Firearms, check [this page](/items/firearms/post-downfall) for more information.
