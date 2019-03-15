@@ -110,4 +110,36 @@ Being caught in overwatch while moving from No Cover state puts you in exposed s
 
 So, if you want to live, stay in cover.
 
-### 
+### Combat Maneuvers
+
+Much of Vanilla PF combat maneuvers are underwhelming, useless unless your entire char is built around it.
+
+#### Overwatch
+
++ **Action/Resources Needed:** Standard
++ **Effect:** The character **immediately** ends their turn, and gains an attack of opportunity whenever an hostile target moves **out of the cover into no cover, or from no cover to another cover. Overwatch no longer procs when a target moves within the cover zone.**
++ **Checks Required:** None
+
+#### Hunker Down
+
++ **Action/Resources Needed:** Move
++ **Effect:** The character gains Heavy Cover bonus from Light cover, **character loses move action next phase.**
++ **Checks Required:** None
+
+#### Suppression
+
++ **Action/Resources Needed:** Standard & Two Charges of Attack on given Firearm (If the firearm can only attack once per reload, it cannot be used to suppress)
++ **Effect:** Target character suffers **double** range increment penalties, and procs a free Overwatch shot from the suppressor. If the attack roll succeeds, the character also deals minimum 
++ **Checks Required:** Attack/Damage Roll
+
+#### Move Objects
+
++ **Action/Resources Needed:** Move action, but can also be used as part of charge, move, run or attack action by paying additional swift action.
++ **Effect:** Manipulates the object targetted in specified way.
++ **Checks Required:** CMB check, but STR check may also be necessary if object is large or too cumbersome. May also trigger DEX check if the object is small instead.
+
+#### Reload
+
++ **Action/Resources Needed:** Move, one magazine.
++ **Effect:** Recharges amount of attacks that can be made with a firearm.
++ **Checks Required:** Sleight of Hand check may be used to reduce the action consumed from move to swift instead. High Sleight of Hand mod allows the character to reload in between attacks as immediate action as well.
