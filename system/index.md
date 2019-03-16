@@ -150,11 +150,11 @@ The biggest drawback of the turn based system of PF is that it is insanely diffi
 
 In Natia Revised, combat will be divided into phases. Following are the list of phases.
 
-1. Upkeep Phase - This is the phase where all buff duration updates, and certain abilities can be used. Always the first phase in a round.
-2. Player Phase - This is the phase where all players act.
-3. Allied Phase - This is the phase where all allied NPCs, summons or cohorts act. Always after the Player Phase.
-4. Enemy Phase - This is the phase where all hostile entities act.
-5. End Phase - This is the phase where all debuff based damages, afflictions take effect. Always the last phase in a round.
+1. **Upkeep Phase** - This is the phase where all buff duration updates, and certain abilities can be used. Always the first phase in a round.
+2. **Player Phase** - This is the phase where all players act.
+3. **Allied Phase** - This is the phase where all allied NPCs, summons or cohorts act. Always after the Player Phase.
+4. **Enemy Phase** - This is the phase where all hostile entities act.
+5. **End Phase** - This is the phase where all debuff based damages, afflictions take effect and any environmental related effects are resolved here also. Always the last phase in a round.
 
 Here are the list of precedences of rulings and calculations for each rulings.
 
